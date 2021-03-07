@@ -1,0 +1,7 @@
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\bin\Debug\Sorteringalgoritmer.exe.config
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\bin\Debug\Sorteringalgoritmer.exe
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\bin\Debug\Sorteringalgoritmer.pdb
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\obj\Debug\Sorteringalgoritmer.csprojAssemblyReference.cache
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\obj\Debug\Sorteringalgoritmer.csproj.CoreCompileInputs.cache
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\obj\Debug\Sorteringalgoritmer.exe
+C:\Users\idsp03001\source\repos\Sorteringalgoritmer\Sorteringalgoritmer\obj\Debug\Sorteringalgoritmer.pdb
